@@ -1,2 +1,2 @@
 # Google_Replica
-A  frontend clone of the Google Search webpage.
+A clone of frontend of the Google Search webpage.
